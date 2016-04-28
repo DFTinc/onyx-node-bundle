@@ -1,0 +1,7 @@
+{
+	"name": "onyx-node",
+	"description": "Node.js bindings for onyx-core SDK",
+	"main": "./lib/core.node",
+	"author": "Will Lucas",
+	"version": "4.0.0"
+}
